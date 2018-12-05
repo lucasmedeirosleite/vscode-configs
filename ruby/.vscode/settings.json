@@ -1,0 +1,14 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "editor.minimap.enabled": false,
+  "editor.rulers": [80],
+  "editor.tabSize": 2,
+  "editor.wordWrapColumn": 80,
+  "files.exclude": {
+    "node_modules": true,
+    ".vscode": true
+  },
+  "workbench.colorTheme": "Default Dark+"
+}
